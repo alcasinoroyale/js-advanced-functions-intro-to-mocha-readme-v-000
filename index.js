@@ -1,2 +1,3 @@
-function favoriteIceCream(flavor) {
+function theTruth() {
+  true
 }
